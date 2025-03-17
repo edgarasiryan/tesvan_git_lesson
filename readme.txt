@@ -1,2 +1,3 @@
 Readme file
-Conflict line
+Resolved conflict
+
